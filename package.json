@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "name": "jest_test_practice",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsimKhan2019/Jest_Test_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsimKhan2019/Jest_Test_Practice/issues"
+  },
+  "homepage": "https://github.com/AsimKhan2019/Jest_Test_Practice#readme"
+}
